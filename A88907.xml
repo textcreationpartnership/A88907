@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Major Gen. Massey upon his death-bed at Leicester: with his protestation, acknowledgment, and proposals, concerning the King of Scots, religion, and covenant; together with his remonstrance, or letter, written by his own hand; and subscribed Edward Massey. Also, the Scots Kings speech to the said Major Gen. upon his departure from him neer Worcester; the totall routing of the rest of his forces in Cheshire: Col. Humes, Col. Hambleton Col. Hart, and divers other officers and soldiers taken prisoners: with the number killed; and the manner how Charles Stuart forced his passage through forty club-men, and so escaped towards Scotland. Likewise, Captain Sympkins speech at the place of execution in Chester, who was shot to death on Tuesday last, for assisting the aforesaid Charles Stuart against the Parliament.</title>
+            <author>Massey, Edward, Sir, 1619?-1674?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88907</idno>
+            <idno type="STC">Wing M1035</idno>
+            <idno type="STC">Thomason E641_15</idno>
+            <idno type="STC">ESTC R206720</idno>
+            <idno type="EEBO-CITATION">99865833</idno>
+            <idno type="PROQUEST">99865833</idno>
+            <idno type="VID">165943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165943)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E641[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Major Gen. Massey upon his death-bed at Leicester: with his protestation, acknowledgment, and proposals, concerning the King of Scots, religion, and covenant; together with his remonstrance, or letter, written by his own hand; and subscribed Edward Massey. Also, the Scots Kings speech to the said Major Gen. upon his departure from him neer Worcester; the totall routing of the rest of his forces in Cheshire: Col. Humes, Col. Hambleton Col. Hart, and divers other officers and soldiers taken prisoners: with the number killed; and the manner how Charles Stuart forced his passage through forty club-men, and so escaped towards Scotland. Likewise, Captain Sympkins speech at the place of execution in Chester, who was shot to death on Tuesday last, for assisting the aforesaid Charles Stuart against the Parliament.</title>
+                  <author>Massey, Edward, Sir, 1619?-1674?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Wharton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept: 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165943:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 124 -->
+            <p>THE DECLARATION OF Major Gen. Maſſey UPON His Death-Bed at <hi>LEICESTER:</hi> WITH His Proteſtation, Acknowledgment, and Pro<g ref="char:EOLhyphen"/>poſals, concerning the King of <hi>Scots, Religion,</hi> and <hi>Covenant;</hi> Together with his <hi>Remonſtrance,</hi> or <hi>Letter, Written by his own Hand; and ſubſcribed</hi> EDWARD MASSEY.</p>
+            <p>
+               <hi>ALSO,</hi> The <hi>Scots</hi> Kings Speech to the ſaid Major Gen. upon his departure from him neer <hi>Worceſter;</hi> the totall routing of the reſt of his Forces in <hi>Cheſhire:</hi> Col. <hi>Humes,</hi> Col. <hi>Hambleton</hi> Col. <hi>Hart,</hi> and divers other Officers and Soldiers ta<g ref="char:EOLhyphen"/>ken <hi>priſoners:</hi> With the number killed; and the manner how <hi>Charles Stuart</hi> forced his paſ<g ref="char:EOLhyphen"/>ſage through forty <hi>Club-men,</hi> and ſo eſcaped towards <hi>Scotland.</hi>
+            </p>
+            <p>LIKEWISE, Captain <hi>Sympkins</hi> Speech at the place of Execution in <hi>Cheſter,</hi> who was ſhot to death on <hi>Tueſday</hi> laſt, for aſſiſting the aforeſaid <hi>Charles Stuart</hi> againſt the Parliament.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>George Wharton,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165943:2"/>
+            <!-- PDF PAGE 125 -->
+            <pb n="1" facs="tcp:165943:2"/>
+            <!-- PDF PAGE 125 -->
+            <head>THE Declaration of Major General <hi>Maſsey</hi> upon his Death bed in the <hi>Newark at Leice<g ref="char:EOLhyphen"/>ſter:</hi> With his Proteſtation and teſtimo<g ref="char:EOLhyphen"/>ny touching his Maſter the King, and the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my laſt of the 7 inſtant, it hath plea<g ref="char:EOLhyphen"/>ſed God to add further Trophies of his Mercy to our late Victory; and hath not onely broken the Bonds and Snares of the Common-wealths Enemies, but alſo quite diſſipated and ſcatter'd them in ſeve<g ref="char:EOLhyphen"/>ral parts of this Nation; as will manifeſt<g ref="char:EOLhyphen"/>ly appear by the incloſed Papers; But in the firſt place give me leave, I beſeech you, to preſent you with the Declaration and Speech of Major Gen. <hi>Maſſey</hi> on his Death-bed at <hi>Lei<g ref="char:EOLhyphen"/>ceſter;</hi>
+               <pb n="2" facs="tcp:165943:3"/>
+               <!-- PDF PAGE 126 -->For having caſt himſelf into the imbracements of the Right Honorable the Counteſs of <hi>Stamford,</hi> Mother to the Lord <hi>Grey</hi> of <hi>Groby,</hi> ſhe immediatly interceded for him to her Son, whoſe Lordſhip ordered his removal from <hi>Broadgate</hi> Mannor to the Newark in Lieceſter, from whence he was guarded by a party of horſe; and on Tueſday laſt was brought into the ſaid Town being very much wounded, and ſcarce able to ſit on his horſe back; But all poſſible meanes was uſed for his Recovery, and the beſt Chyrurgions ſent for, who dreſſed his wounds, which lay both in the head, hand, and thigh, but upon their ſearching the depth thereof, they found them to be not onely putrified, but alſo mortal; which indeed proved to be ſo; For this morning it is affirmed that he departed this life, and made a very Chriſtian end; who finding a ſudden inward change, declared to thoſe that were reſident with him, <hi>That his hour was almoſt come,</hi> and deſired that a Miniſter might be preſently ſent for, which was grant<g ref="char:EOLhyphen"/>ed; and according M: <hi>Angel</hi> had notice thereof, and gave him a viſit, making a very pious prayer, and heavenly exhortation: After which, Major Gen: <hi>Maſſey</hi> gave him thanks, and decla<g ref="char:EOLhyphen"/>red himſelf as followeth:</p>
+            <q>That he bleſsed God his hour was ſo neer, that he was in a great meaſure ſenſible thereof, that his heart was full of joy and peace in believing, that he had purſued thoſe ways for which he bleſſed God he had no blackneſſe upon his Conſcience, and that his En<g ref="char:EOLhyphen"/>gagement tended onely for the inthroning of his young Maſter, the ſettling of Religion, according to the Covenant, which with his hands and heart lifted up to the moſt high God, he was bound to preſerve, and not to violate.</q>
+            <p>Having ended theſe Declaratory expreſſions, M. <hi>Angel,</hi> took his leave of him, and ſuddenly after it is advertized that he dy'd. During his life time he was in great miſery and an<g ref="char:EOLhyphen"/>guiſh,
+<pb n="3" facs="tcp:165943:3"/>
+               <!-- PDF PAGE 126 -->and meer pain and wearineſs forced him in to a ſur<g ref="char:EOLhyphen"/>render of his perſon; as appears by the inſuing Letter to the Counteſſe of <hi>Stamford,</hi> writen with his own hand.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Thrice noble and moſt vertuous Lady,</salute>
+                  </opener>
+                  <p>Theſe are the humble requeſt of your poor ſervant, whom it hath pleaſed God at preſent deeply to afflict; and by his providence being caſt into theſe parts, full of anguiſh and painly reaſon of my wounds and weakneſs got before the defeat at <hi>Worceſter;</hi> I reſolved to caſt my ſelf upon the favour of my Lord Gray, which by your La<g ref="char:EOLhyphen"/>diſhips interceſſion (and of which <hi>I</hi> dare preſume, knowing your charity to all men) I hope I ſhall finde from his nobleneſſe, That I may have leave as his priſoner to ſtay and repoſe my ſick body, and refreſh my wounds, either herel hr where his Lordſhip ſhall pleaſe to command, being unable to ride or trave further at preſent, I ſhall be afaithfull Priſoner, either under or without a Guard as his Lordſhip ſhall pleaſe.</p>
+                  <closer>
+                     <salute>Thrice vertuous Madam</salute> 
+                     <signed>
+                        <hi>This is the moſt humble request of</hi> Your Ladiſhips moſt humble and devoted ſervant <hi>Ed. Maſſey.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>To the right honourable and thrice noble, and vertuous Lady, the Counteſſe of <hi>Stamford</hi> theſe humbly.</trailer>
+               </body>
+            </floatingText>
+            <p>Immediately upon the receipt of this Letter, notice was given by the Counteſs to her ſon my Lord <hi>Gray,</hi> that care might be taken for the ſe<g ref="char:EOLhyphen"/>curing of his perſon till farther order be taken by the Parliament or Councel.</p>
+            <p>Some of the priſoners taken affirm, That the ſaid Major Gen. rode about 6 miles from Worceſter with their King; but not being able to keep pace with any longer, the King took his leave of him, with tears trickling down his cheeks, ſaying; <hi>Farewell my dear and fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thful Friend, the Lord bleſſe and preſerve us both:</hi> And ſo they parted, the King poſting on with Scoutmaſter Gen. <hi>Hind,</hi> the grand Thief of <hi>England;</hi> and the Major Gen. wheeled off by the way of <hi>Bromsgrave.</hi>
+            </p>
+            <closer>
+               <dateline>Wigſon <date>Septemb. 12. 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:165943:4"/>
+            <!-- PDF PAGE 127 -->
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>ON Thurſday laſt there marched by our Town about 1000. of the routed Scots, who rande<g ref="char:EOLhyphen"/>vouzed on Cangleton Moor, there taking up their quarters for the moſt part of that night, lying in their cloſe order; but about 3 of the Clock in the morning, Major Cibſon (a Countrey Gentleman) with about 300 Club men and others, allarmed them, which the Enemy perceiving, indeavoured to make good his drawing off; but by the great forwardneſs and gallantry of the ſaid Major, he fel on with his men in their Rear, killed about 300. and took above 100 priſoners with little loſſe: for indeed ſo great is the ſpirit of fear amongſt them, that 10 men will chaſe 100. the reſt of the enemy eſcaped; but we hear ſince are taken. On Fryday morning, another party conſiſting of about 500. marched by us, but the Countrey purſued them ſo cloſe, that the enemy were forced to face about, and diſpute the place, which conflict laſted for the ſpace of half an hour, till at laſt the Countrey men fell in with their Clubs, Sythes, and but end of Musquets, and totally routed them, killing about 60. took divers priſoners of quality: amongſt the reſt Col. Hamilton, Sir William Hart, and Collo<g ref="char:EOLhyphen"/>nel Humes, (Son to the Lord Humes) are taken. Having ſecured the priſoners, we farther purſued the enemy, and about Diddesbury overtook them,
+<pb facs="tcp:165943:4"/>
+               <!-- PDF PAGE 127 -->where we killed, took, and totally routed the whole party, with the loſſe of 11 men, ſo that now (bleſ<g ref="char:EOLhyphen"/>ſed be God) moſt of the enemies of this Common<g ref="char:EOLhyphen"/>wealth, that got off from the fight at Worceſter, are all killed and taken: but Charles Stuart their Captain General hath again narrowly eſcaped, and out run them all, being habited in mean Apparel, with only four men to attend him: he is gone towards Scotland with a great and pannick fear, by reaſon of the diſaffection of the Countrey to<g ref="char:EOLhyphen"/>wards him: for in divers places where he came, the Inhabitants roſe both againſt him and his follow<g ref="char:EOLhyphen"/>ers, and fell upon them with their Clubs, and at Diddesbury he was conſtrained to force his paſ<g ref="char:EOLhyphen"/>ſage through the midſt of 40 Club men, who laid at him with their Clubs, and yet could not bring him to the duſt. However there is all dilligence u<g ref="char:EOLhyphen"/>ſed for the way la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing and intercepting of him be<g ref="char:EOLhyphen"/>fore he gets over Tweed: In many places where he came where the people were gathered together, He uſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d theſe expreſſions Good people, take commiſe<g ref="char:EOLhyphen"/>ration on him, who is your true &amp; lawful King, but words took theſe little impreſſion in their hearts, for they made a generall reſiſtance throughout all parts, and unanimouſly declared againſt him and his followere, for which, I doubt not, but they wil have a rich reward of mercy with God, &amp;c.</p>
+            <p>
+               <pb n="6" facs="tcp:165943:5"/>
+               <!-- PDF PAGE 128 -->
+From <hi>Cheſter</hi> we heare, That Col. <hi>Dackenfield</hi> (the Gover<g ref="char:EOLhyphen"/>nor) hath ſentenced ten of the King of Scots Captaines at a Counſell of <hi>War</hi> to be ſhot, and accordingly on Tueſday laſt they were brought to the place of execution, where moſt of them deported themſelves with much reſoluteneſſe of ſpirit, and amongſt the reſt Cap. <hi>Man,</hi> and <hi>Sympkins,</hi> ſeemed not in the leaſt to be daunted, and withall, as they were guar<g ref="char:EOLhyphen"/>ded along from the Caſtle, Cap. <hi>Sympkins</hi> called the Officers that went on each ſide of him, his two Bridemen, proteſting, That he was filled with as much inward joy to receive the bullets, as if he was to receive a Bride; and when he came to the place of execution, he expreſſed himſelf further to the ſpectators.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>Chriſtian Gentlemen, and People,</salute>
+                        </opener>
+                        <p>I Am this day brought hither to die for Treaſon, and to be cut off from doing any further ſervice for my Maſter the King: However I am not in the leaſt ſorry, and for the cauſe in which I have now waded, I muſt need ſay, my continuance or engagement in it hath laid no ſcruple upon my conſcience, it was upon the intereſts of Religion and Loyalty; and I hum<g ref="char:EOLhyphen"/>bly deſire that God would be pleaſed to honor that ſide that hath right with it, and that you may enjoy peace and plenty when I ſhall enjoy peace and plenty beyond all you poſſeſſe here: As for my Judges I freely forgive them, being in free peace with all the world, as I deſire God for <hi>Chriſts</hi> ſake, to be at peace with me: And ſo the Lord bleſſe you all. Then tur<g ref="char:EOLhyphen"/>ning to the Muſquetiers, ſaid, Gentlemen when I ſtretch forth my arms do your office; and ſo immediately he unbraced his doublet, and ſtretching forth his arms they all fired, (being 6. in number) and ſo patiently receiving theſe tokens of death, he departed this life. <hi>Sir,</hi> having no more at preſent, I remain</p>
+                        <closer>
+                           <signed>Your oblibed and faith<g ref="char:EOLhyphen"/>full friend, <hi>Robert Cotton.</hi>
+                           </signed>Mancheſter, <dateline>
+                              <date>Septem. 11. 1651.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
